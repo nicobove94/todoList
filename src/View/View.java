@@ -14,4 +14,5 @@ public class View {
     private JTextField dateTimeField;
     private JButton addButton;
     private JButton clearButton;
+    private JLabel eventLabel;
 }
