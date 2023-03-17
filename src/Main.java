@@ -1,19 +1,16 @@
+import java.time.LocalDateTime;
+
 public class Main {
     public static void main(String[] args) {
-        /* TESTER
 
         Model.Schedule schedule = new Model.Schedule();
         Model.Task umlClassDiagram = new Model.Assignment("IST311", LocalDateTime.of(2023, 2, 19, 23, 59), "UML Class Diagram");
         Model.Task cyber342wQuiz = new Model.Assignment("CYBER342W", LocalDateTime.of(2023, 2, 22, 23, 59), "Module 5 Quiz");
 
-        Model.Task chillOutGig = new Model.Event("Chill Out Hookah Lounge Gig", 2, "Chill Out Hookah Lounge", LocalDateTime.of(2023, 2, 17, 20, 0));
-
         schedule.addTask(umlClassDiagram);
         schedule.addTask(cyber342wQuiz);
-        schedule.addTask(chillOutGig);
 
         System.out.println(schedule);
-        */
 
         /* Incomplete command line implementation
 
